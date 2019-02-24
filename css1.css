@@ -4,7 +4,7 @@ div, p, ul, h2, h3, img{padding:0px; margin:0px;}
 ul{list-style-type:none;}
 
 /*----TOP PANEL----*/
-#topPan{width:1800px; height:200px; position:relative; margin:0 auto; background: 0 0 repeat-x rgb(179, 179, 179); color:rgb(255, 255, 255); padding:0px;}
+#topPan{width:1350px; height:200px; position:relative; margin:0 auto; background: 0 0 repeat-x rgb(179, 179, 179); color:rgb(255, 255, 255); padding:0px;}
 
 #topPan p{font-size:40px; padding:70px 0 0 53px;}
 
@@ -16,7 +16,7 @@ ul{list-style-type:none;}
 #topMenuLeftPan{width:69px; height:30px; float:right; background: 0 0 ;}
 #topMenuMiddlePan{width:544px; height:30px; float: right;;}
 
-#topMenuMiddlePan ul{width:544px; height:16px;}
+#topMenuMiddlePan ul{width:465px; height:16px;}
 #topMenuMiddlePan ul li{width:67 px; height:16px; float: right;;}
 #topMenuMiddlePan ul li a{width:67px; height:16px; display:block; color:rgb(29, 145, 240); font:10px/16px "Trebuchet MS",Arial, Helvetica, sans-serif; text-decoration:none; font-weight:bold; text-align:center; text-transform:uppercase;}
 #topMenuMiddlePan ul li a:hover{background:rgb(255, 255, 255); color:rgb(29, 145, 240); text-decoration:none;}
@@ -24,6 +24,8 @@ ul{list-style-type:none;}
 #topMenuMiddlePan ul li.contact{width:67px; border-right:1px solid #fff;}
 #topMenuMiddlePan ul li.contact a{width:67px; height:16px; display:block; background:#fff; color:#4A4A4A; font:10px/16px "Trebuchet MS",Arial, Helvetica, sans-serif; text-decoration:none; font-weight:bold; text-align:center; text-transform:uppercase;}
 #topMenuMiddlePan ul li.contact a:hover{background:#fff; color:rgb(117, 117, 117); text-decoration:none;}
+
+#topMenuRightPan{width:70px; height:16px; float:left; background: 0 0 no-repeat;}
 
 #topMenuRightPan{width:70px; height:16px; float:left; background: 0 0 no-repeat;}
 /*----/TOP PANEL----*/
@@ -72,7 +74,7 @@ ul{list-style-type:none;}
 
 /*----/BODY LEFT PANEL----*/
 /*----BODY RIGHT PANEL----*/
-#bodyRightPan{position: static; width: 250px; height:200px; float:left;  background:rgb(184, 230, 252); color:#1A1A1A; padding:0 0 0px;}
+#bodyRightPan{position: static; width: 250px; height:200px; float:left;  background:rgb(213, 242, 255); color:#1A1A1A; padding:0 0 0px;}
 
 #bodyRightPan h2{width:100px; height:35px;   color:#00111A; font:24px/34px Georgia, "Times New Roman", Times, serif; margin:6px 8px 16px; padding:0 0 0 20px;}
 #bodyRightPan h2 span{ color:#00a6ff;}
@@ -81,17 +83,17 @@ ul{list-style-type:none;}
 #bodyRightPan ul li{width:180px; height:18px;}
 
 
-#bodyRightPa{position: relative; top:45px; width:250px;  background:rgb(184, 230, 252); color:#1A1A1A; padding:0 0 50px;}
+#bodyRightPa{position: relative; top:45px; width:250px;  background:rgb(213, 242, 255); color:#1A1A1A; padding:0 0 50px;}
 
 #bodyRightPa h2{width:100px; height:35px;   color:#00111A; font:24px/34px Georgia, "Times New Roman", Times, serif; margin:3px 7px 10px; padding:0 0 0 20px;}
 
 /*----/BODY RIGHT PANEL----*/
 /*----/BODY PANEL----*/
 /*----FOOTER PANEL----*/
-#footermainPan{ height:100px; background: 0 0 repeat-x rgb(184, 230, 252);  clear:both; padding:1px 0 0;}
+#footermainPan{ height:80px; background: 0 0 repeat-x rgb(141, 218, 253);  clear:both; padding:1px 0 0;}
 
-#footerPan{width:600px; position:relative; margin:0 auto; font-family:"Trebuchet MS",Arial, Helvetica, sans-serif}
-#nis{width:420px; height:400px; background:url(ur_s_500x375.jpg) 0 6px no-repeat #fff; color:#03537D; padding:0 0 0 10px;}
+#footerPan{width:1330px; position:relative; margin:0 auto; font-family:"Trebuchet MS",Arial, Helvetica, sans-serif}
+#nis{width:400px; height:260px; background:url(ur_s_500x375.jpg) 0 6px no-repeat #fff; color:#03537D; padding:0 0 0 10px;}
 
 #footerPan li{float:right; }
 #footerPan ul li a{text-align: right; color:#002fff; }
